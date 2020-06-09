@@ -1,0 +1,410 @@
+1590954712353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\10\\AppData\\Local\\Temp\\rust_mozprofileheQdye"
+1590954713188	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590954713829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590954713830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590954713830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590954713830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590954716342	Marionette	INFO	Listening on port 58188
+1590954716525	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1066: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1122: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1129: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6871: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6873: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6875: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 1066: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 1122: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 1129: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 6871: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 6873: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 6875: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 6871: unreachable code after return statement
+1590954819704	Marionette	INFO	Stopped listening on port 58188
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590954823592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\10\\AppData\\Local\\Temp\\rust_mozprofileGc17K2"
+1590954823983	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590954824550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590954824550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590954824550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590954824550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590954826514	Marionette	INFO	Listening on port 50406
+1590954826748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1066: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1122: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1129: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6871: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6873: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6875: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js line 2 > eval, line 2: ReferenceError: ouibounce is not defined
+1590954861947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\10\\AppData\\Local\\Temp\\rust_mozprofileFleXF4"
+1590954862418	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590954862992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590954862992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590954862993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590954862993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590954865067	Marionette	INFO	Listening on port 50598
+1590954865113	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1066: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1122: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1129: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6871: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6873: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6875: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 1066: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 1122: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 1129: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 6871: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 6873: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 6875: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js line 2 > eval, line 2: ReferenceError: ouibounce is not defined
+1590954884522	Marionette	INFO	Stopped listening on port 50598
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590954892755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\10\\AppData\\Local\\Temp\\rust_mozprofiletIdxCc"
+1590954893150	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590954893752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590954893752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590954893752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590954893753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590954895801	Marionette	INFO	Listening on port 50787
+1590954895920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1066: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1122: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1129: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6871: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6873: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6875: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 1066: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 1122: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 1129: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 6871: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 6873: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 6875: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+1590954933015	Marionette	INFO	Stopped listening on port 50787
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+oh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590954932641	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590954932641	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590954932642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590954932642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590954934653	Marionette	INFO	Listening on port 50994
+1590954934686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1066: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1122: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1129: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6871: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6873: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6875: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6871: unreachable code after return statement
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+1590955030979	Marionette	INFO	Stopped listening on port 50994
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590955035779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\10\\AppData\\Local\\Temp\\rust_mozprofileu1GLII"
+1590955036150	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590955036703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590955036704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590955036704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590955036704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590955038551	Marionette	INFO	Listening on port 51342
+1590955038888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1066: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1122: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1129: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6871: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6873: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6875: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 1066: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 1122: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 1129: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 6871: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 6873: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 6875: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+[Child 13768, Chrome_ChildThread] WARNING: pipe error: 232: file Z:/task_1585933993/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 514
+1590955068936	Marionette	INFO	Stopped listening on port 51342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590955072132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\10\\AppData\\Local\\Temp\\rust_mozprofilesWcmin"
+1590955072491	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590955073063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590955073064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590955073064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590955073064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590955074967	Marionette	INFO	Listening on port 51668
+1590955075293	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1066: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1122: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1129: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6871: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6873: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6875: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 1066: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 1122: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 1129: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 6871: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 6873: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com#reviews, line 6875: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+1590955119441	Marionette	INFO	Stopped listening on port 51668
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+oh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590955119482	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590955119482	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590955119482	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590955119483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590955121516	Marionette	INFO	Listening on port 51895
+1590955122000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1066: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1122: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1129: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6871: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6873: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6875: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+[Child 11788, Chrome_ChildThread] WARNING: pipe error: 232: file Z:/task_1585933993/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 514
+1590955164919	Marionette	INFO	Stopped listening on port 51895
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590955168880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\10\\AppData\\Local\\Temp\\rust_mozprofileKRen4L"
+1590955169273	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590955169857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590955169857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590955169857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590955169857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590955171833	Marionette	INFO	Listening on port 52210
+1590955172037	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1066: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1122: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1129: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6871: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6873: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6875: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6871: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1590955410063	Marionette	INFO	Stopped listening on port 52210
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590955443984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\10\\AppData\\Local\\Temp\\rust_mozprofilemO6y33"
+1590955444350	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590955444921	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590955444922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590955444922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590955444922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590955446856	Marionette	INFO	Listening on port 52874
+1590955447238	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1066: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1122: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1129: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6871: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6873: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6875: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6871: unreachable code after return statement
+1590955523860	Marionette	INFO	Stopped listening on port 52874
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590955527971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\10\\AppData\\Local\\Temp\\rust_mozprofileuK10Pz"
+1590955528363	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590955528932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590955528932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590955528932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590955528932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590955530939	Marionette	INFO	Listening on port 53152
+1590955531133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1066: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1122: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1129: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6871: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6873: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6875: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+1590955807334	Marionette	INFO	Stopped listening on port 53152
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+oh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590955807726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590955807726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590955807726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590955807726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590955809812	Marionette	INFO	Listening on port 53950
+1590955809901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1066: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1122: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1129: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6871: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6873: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6875: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+1590955960071	Marionette	INFO	Stopped listening on port 53950
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+oh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590955868049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590955868049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590955868049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590955868049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590955870076	Marionette	INFO	Listening on port 54180
+1590955870309	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1066: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1122: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1129: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6871: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6873: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6875: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1590955958270	Marionette	INFO	Stopped listening on port 54180
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1590957412044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\10\\AppData\\Local\\Temp\\rust_mozprofiletMM5VP"
+1590957412429	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590957412997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590957412997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590957412997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590957412997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590957415096	Marionette	INFO	Listening on port 62716
+1590957415216	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1066: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1122: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1129: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6871: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6873: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6875: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6871: unreachable code after return statement
+1590957502336	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1590957620113	Marionette	INFO	Stopped listening on port 62716
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\10\\AppData\\Local\\Temp\\rust_mozprofileLH0i0K"
+1590957537335	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590957537925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590957537925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590957537925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590957537925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590957539822	Marionette	INFO	Listening on port 62910
+1590957540145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1066: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1122: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1129: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6871: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6873: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6875: unreachable code after return statement
+1590957622161	Marionette	INFO	Stopped listening on port 62910
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590957626193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\10\\AppData\\Local\\Temp\\rust_mozprofile1LCUal"
+1590957626545	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590957627094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590957627094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590957627095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590957627095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590957628995	Marionette	INFO	Listening on port 63086
+1590957629358	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1066: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1122: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 1129: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6871: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6873: unreachable code after return statement
+JavaScript warning: https://www.sitejabber.com/reviews/uber.com, line 6875: unreachable code after return statement
+1590957732831	Marionette	INFO	Stopped listening on port 63086
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
